@@ -1,0 +1,168 @@
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/Echo
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/Echo.deps.json
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/Echo.runtimeconfig.json
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/Echo.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/Echo.pdb
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/Microsoft.Extensions.Logging.Configuration.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/Microsoft.Extensions.Logging.Console.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/System.CommandLine.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/cs/System.CommandLine.resources.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/de/System.CommandLine.resources.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/es/System.CommandLine.resources.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/fr/System.CommandLine.resources.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/it/System.CommandLine.resources.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/ja/System.CommandLine.resources.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/ko/System.CommandLine.resources.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/pl/System.CommandLine.resources.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/pt-BR/System.CommandLine.resources.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/ru/System.CommandLine.resources.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/tr/System.CommandLine.resources.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/zh-Hans/System.CommandLine.resources.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/bin/Debug/net7.0/zh-Hant/System.CommandLine.resources.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/obj/Debug/net7.0/Echo.csproj.AssemblyReference.cache
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/obj/Debug/net7.0/Echo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/obj/Debug/net7.0/Echo.AssemblyInfoInputs.cache
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/obj/Debug/net7.0/Echo.AssemblyInfo.cs
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/obj/Debug/net7.0/Echo.csproj.CoreCompileInputs.cache
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/obj/Debug/net7.0/Echo.csproj.CopyComplete
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/obj/Debug/net7.0/Echo.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/obj/Debug/net7.0/refint/Echo.dll
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/obj/Debug/net7.0/Echo.pdb
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/obj/Debug/net7.0/Echo.genruntimeconfig.cache
+/workspaces/9dceac73acee76bc504b37e7a617bb7c6d9c20218c05474b5d6503cfd3577fa9/obj/Debug/net7.0/ref/Echo.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/Echo
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/Echo.deps.json
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/Echo.runtimeconfig.json
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/Echo.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/Echo.pdb
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/Microsoft.Extensions.Logging.Configuration.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/Microsoft.Extensions.Logging.Console.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/System.CommandLine.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/cs/System.CommandLine.resources.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/de/System.CommandLine.resources.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/es/System.CommandLine.resources.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/fr/System.CommandLine.resources.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/it/System.CommandLine.resources.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/ja/System.CommandLine.resources.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/ko/System.CommandLine.resources.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/pl/System.CommandLine.resources.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/pt-BR/System.CommandLine.resources.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/ru/System.CommandLine.resources.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/tr/System.CommandLine.resources.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/zh-Hans/System.CommandLine.resources.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/bin/Debug/net7.0/zh-Hant/System.CommandLine.resources.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/obj/Debug/net7.0/Echo.csproj.AssemblyReference.cache
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/obj/Debug/net7.0/Echo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/obj/Debug/net7.0/Echo.AssemblyInfoInputs.cache
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/obj/Debug/net7.0/Echo.AssemblyInfo.cs
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/obj/Debug/net7.0/Echo.csproj.CoreCompileInputs.cache
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/obj/Debug/net7.0/Echo.csproj.CopyComplete
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/obj/Debug/net7.0/Echo.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/obj/Debug/net7.0/refint/Echo.dll
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/obj/Debug/net7.0/Echo.pdb
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/obj/Debug/net7.0/Echo.genruntimeconfig.cache
+/workspaces/6d29ed33f5079e6166fdd2c795965ef109169cd413c9e0936e0f48ae30e7b851/obj/Debug/net7.0/ref/Echo.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/Echo
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/Echo.deps.json
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/Echo.runtimeconfig.json
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/Echo.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/Echo.pdb
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/Microsoft.Extensions.Logging.Configuration.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/Microsoft.Extensions.Logging.Console.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/System.CommandLine.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/cs/System.CommandLine.resources.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/de/System.CommandLine.resources.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/es/System.CommandLine.resources.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/fr/System.CommandLine.resources.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/it/System.CommandLine.resources.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/ja/System.CommandLine.resources.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/ko/System.CommandLine.resources.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/pl/System.CommandLine.resources.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/pt-BR/System.CommandLine.resources.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/ru/System.CommandLine.resources.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/tr/System.CommandLine.resources.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/zh-Hans/System.CommandLine.resources.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/bin/Debug/net7.0/zh-Hant/System.CommandLine.resources.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/obj/Debug/net7.0/Echo.csproj.AssemblyReference.cache
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/obj/Debug/net7.0/Echo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/obj/Debug/net7.0/Echo.AssemblyInfoInputs.cache
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/obj/Debug/net7.0/Echo.AssemblyInfo.cs
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/obj/Debug/net7.0/Echo.csproj.CoreCompileInputs.cache
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/obj/Debug/net7.0/Echo.csproj.CopyComplete
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/obj/Debug/net7.0/Echo.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/obj/Debug/net7.0/refint/Echo.dll
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/obj/Debug/net7.0/Echo.pdb
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/obj/Debug/net7.0/Echo.genruntimeconfig.cache
+/workspaces/a16f0b967e19547528e114b62b1888813c3e6155c6b195d1f6b1a0387e3c4b4e/obj/Debug/net7.0/ref/Echo.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/Echo
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/Echo.deps.json
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/Echo.runtimeconfig.json
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/Echo.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/Echo.pdb
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/Microsoft.Extensions.Logging.Configuration.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/Microsoft.Extensions.Logging.Console.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/System.CommandLine.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/cs/System.CommandLine.resources.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/de/System.CommandLine.resources.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/es/System.CommandLine.resources.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/fr/System.CommandLine.resources.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/it/System.CommandLine.resources.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/ja/System.CommandLine.resources.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/ko/System.CommandLine.resources.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/pl/System.CommandLine.resources.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/pt-BR/System.CommandLine.resources.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/ru/System.CommandLine.resources.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/tr/System.CommandLine.resources.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/zh-Hans/System.CommandLine.resources.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/bin/Debug/net7.0/zh-Hant/System.CommandLine.resources.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/obj/Debug/net7.0/Echo.csproj.AssemblyReference.cache
+/workspaces/Encrypt/encryption-handout (1)/handout/obj/Debug/net7.0/Echo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Encrypt/encryption-handout (1)/handout/obj/Debug/net7.0/Echo.AssemblyInfoInputs.cache
+/workspaces/Encrypt/encryption-handout (1)/handout/obj/Debug/net7.0/Echo.AssemblyInfo.cs
+/workspaces/Encrypt/encryption-handout (1)/handout/obj/Debug/net7.0/Echo.csproj.CoreCompileInputs.cache
+/workspaces/Encrypt/encryption-handout (1)/handout/obj/Debug/net7.0/Echo.csproj.CopyComplete
+/workspaces/Encrypt/encryption-handout (1)/handout/obj/Debug/net7.0/Echo.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/obj/Debug/net7.0/refint/Echo.dll
+/workspaces/Encrypt/encryption-handout (1)/handout/obj/Debug/net7.0/Echo.pdb
+/workspaces/Encrypt/encryption-handout (1)/handout/obj/Debug/net7.0/Echo.genruntimeconfig.cache
+/workspaces/Encrypt/encryption-handout (1)/handout/obj/Debug/net7.0/ref/Echo.dll
