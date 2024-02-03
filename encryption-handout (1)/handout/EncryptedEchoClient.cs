@@ -1,7 +1,7 @@
 ﻿using System.Security.Cryptography;
 using System.Text.Json;
 using Microsoft.Extensions.Logging;
-
+//hi
 /// <summary>
 /// Provides a base class for implementing an Echo client.
 /// </summary>
