@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Encrypt/encryption-handout (1)/handout/Echo.csproj": {}
+    "/workspaces/94eaab02193af671063d82af2792dd674fedfcf7dfff7647f100ebc684009529/encryption-handout (1)/handout/Echo.csproj": {}
   },
   "projects": {
-    "/workspaces/Encrypt/encryption-handout (1)/handout/Echo.csproj": {
+    "/workspaces/94eaab02193af671063d82af2792dd674fedfcf7dfff7647f100ebc684009529/encryption-handout (1)/handout/Echo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Encrypt/encryption-handout (1)/handout/Echo.csproj",
+        "projectUniqueName": "/workspaces/94eaab02193af671063d82af2792dd674fedfcf7dfff7647f100ebc684009529/encryption-handout (1)/handout/Echo.csproj",
         "projectName": "Echo",
-        "projectPath": "/workspaces/Encrypt/encryption-handout (1)/handout/Echo.csproj",
+        "projectPath": "/workspaces/94eaab02193af671063d82af2792dd674fedfcf7dfff7647f100ebc684009529/encryption-handout (1)/handout/Echo.csproj",
         "packagesPath": "/home/vscode/.nuget/packages/",
-        "outputPath": "/workspaces/Encrypt/encryption-handout (1)/handout/obj/",
+        "outputPath": "/workspaces/94eaab02193af671063d82af2792dd674fedfcf7dfff7647f100ebc684009529/encryption-handout (1)/handout/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vscode/.nuget/NuGet/NuGet.Config"
